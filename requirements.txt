@@ -1,0 +1,6 @@
+flask~=3.0.3
+python-dotenv
+flask-smorest
+marshmallow~=3.21.2
+pyodbc
+flask-jwt-extended
